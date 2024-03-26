@@ -1,0 +1,6 @@
+question = input('who is the best player in football history:')
+print(question)
+print('incorrect')
+question2 = input('who is the best player in football history:')
+print(question2)
+print('correct')

@@ -1,6 +1,6 @@
-#if you want to use snake case do not use space while creating a varible
+#when you want to make a variable dont use space cause it will cause an error this is called snake case
 
-#if you want to use camel case you have to type a word wich the first word has to be big like This
+#when you want to make a variable and you start with a big word this is called camel case
 
 Name = "berdo"
 Full_name = "berdia"
