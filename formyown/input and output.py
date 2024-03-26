@@ -1,1 +1,11 @@
-variable = input()
+name = input("enter your name:")
+last_name = input("enter your last name:")
+age = input("enter your age:")
+print(name, last_name, age)
+
+academy = input("enter your academy:")
+helpers_name = input("enter your helpers name:")
+helpers_last_name = input("enter your helpers last name:")
+helpers_age = input("enter your helpers age:")
+academy_group = input("enter your academy group:")
+print(academy, helpers_name, helpers_last_name, helpers_age, academy_group)
